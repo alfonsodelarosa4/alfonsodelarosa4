@@ -5,9 +5,9 @@ I am Alfonso, and this is my GitHub repository:
 You can reach me through 👨‍💻 my [LinkedIn Profile](https://www.linkedin.com/in/alfonso-delarosa/)
 
 Here you will find several projects that I have worked on:
-- [Professional Social Media Web Application](https://github.com/alfonsodelarosa4/Professional-Social-Network) (React/Node.js) 👨‍💼👩‍💼
-- [E-Commerce Clothing Application](https://github.com/alfonsodelarosa4/E-Commerce-Clothing-Store) (Django) 👕👖👞
-- [To-Do List Application](https://github.com/alfonsodelarosa4/cis44project) (Java/SQLite) 📋
+- [Professional Social Media Web Application](https://github.com/alfonsodelarosa4/Professional-Social-Network) (React/Node.js) (Summer 2021) 👨‍💼👩‍💼
+- [E-Commerce Clothing Application](https://github.com/alfonsodelarosa4/E-Commerce-Clothing-Store) (Django) (Summer 2021) 👕👖👞
+- [To-Do List Application](https://github.com/alfonsodelarosa4/cis44project) (Java/SQLite) (Spring 2020) 📋
 
 
 
