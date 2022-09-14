@@ -9,6 +9,10 @@ Here you will find several projects that I have worked on:
 - [E-Commerce Clothing Application](https://github.com/alfonsodelarosa4/E-Commerce-Clothing-Store) (Django) (Summer 2021) 👕👖👞
 - [To-Do List Application](https://github.com/alfonsodelarosa4/To-List-Application) (Java/SQLite) (Spring 2020) 📋
 
+Technical Skills:
+- Proficient: Git, GitHub, Python, Golang, Visual Studio, Jupyter Notebooks
+- Experienced: C, C++, C#, Java, Unix, DynamoDB
+- Familiar: Django, Node.js, Express.js, React.js, Redux.js, Javascript, SQL, MongoDB, Firebase DB
 
 
 <!---
