@@ -1,6 +1,4 @@
-Hello,
-
-I am Alfonso, and this is my GitHub repository:
+Hello, I am Alfonso De La Rosa, and this is my GitHub repository:
 
 You can reach me through 👨‍💻 my [LinkedIn Profile](https://www.linkedin.com/in/alfonso-delarosa/)
 
