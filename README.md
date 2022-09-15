@@ -9,14 +9,14 @@ You can reach me through 👨‍💻 my [LinkedIn Profile](https://www.linkedin.
 Here you will find several projects that I have worked on.
 
 ## Projects
-- [Professional Social Media Web Application](https://github.com/alfonsodelarosa4/Professional-Social-Network) (React/Node.js) (Summer 2021) 👨‍💼👩‍💼
-- [E-Commerce Clothing Application](https://github.com/alfonsodelarosa4/E-Commerce-Clothing-Store) (Django) (Summer 2021) 👕👖👞
-- [To-Do List Application](https://github.com/alfonsodelarosa4/To-List-Application) (Java/SQLite) (Spring 2020) 📋
+- [**Professional Social Media Web Application**](https://github.com/alfonsodelarosa4/Professional-Social-Network) (React/Node.js) (Summer 2021) 👨‍💼👩‍💼
+- [**E-Commerce Clothing Application**](https://github.com/alfonsodelarosa4/E-Commerce-Clothing-Store) (Django) (Summer 2021) 👕👖👞
+- [**To-Do List Application**](https://github.com/alfonsodelarosa4/To-List-Application) (Java/SQLite) (Spring 2020) 📋
 
 ## Technical Skills
-- Proficient: Git, GitHub, Python, Golang, Visual Studio, Jupyter Notebooks
-- Experienced: C, C++, C#, Java, Unix, DynamoDB
-- Familiar: Django, Node.js, Express.js, React.js, Redux.js, Javascript, SQL, MongoDB, Firebase DB
+- **Proficient**: Git, GitHub, Python, Golang, Visual Studio, Jupyter Notebooks
+- **Experienced**: C, C++, C#, Java, Unix, DynamoDB
+- **Familiar**: Django, Node.js, Express.js, React.js, Redux.js, Javascript, SQL, MongoDB, Firebase DB
 
 
 <!---
