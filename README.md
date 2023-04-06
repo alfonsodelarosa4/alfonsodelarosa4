@@ -4,11 +4,12 @@
 Hello, I am Alfonso De La Rosa, and this is my GitHub repository:
 I am currently a graduate student at Santa Clara University. I am studying for my M.S. in Computer Science and Engineering. I have had experience in back-end, full-stack, and testing.
 
-You can reach me through 👨‍💻 my [LinkedIn Profile](https://www.linkedin.com/in/alfonso-delarosa/)
+You can reach me through my [LinkedIn Profile](https://www.linkedin.com/in/alfonso-delarosa/)
 
 Here you will find several projects that I have worked on.
 
 ## Projects
+- [**Backend of Diet Meal Plan Application**](https://github.com/husainunwalla/python-api-docker) (Flask/MongoDB) (Winter 2023) 🥗 
 - [**Professional Social Media Web Application**](https://github.com/alfonsodelarosa4/Professional-Social-Network) (React/Node.js) (Summer 2021) 👨‍💼👩‍💼
 - [**E-Commerce Clothing Application**](https://github.com/alfonsodelarosa4/E-Commerce-Clothing-Store) (Django) (Summer 2021) 👕👖👞
 - [**To-Do List Application**](https://github.com/alfonsodelarosa4/To-List-Application) (Java/SQLite) (Spring 2020) 📋
