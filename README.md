@@ -2,9 +2,9 @@
 
 ## Introduction
 Hello, I am Alfonso De La Rosa, and this is my GitHub repository:
-I am currently a graduate student at Santa Clara University. I am studying for my M.S. in Computer Science and Engineering. I have had experience in back-end, full-stack, and testing.
+I recently graduated from Santa Clara University with a M.S. in Computer Science and Engineering. I have had experience in back-end, full-stack, and testing. In the Summer of 2022, I had a software engineering internship at Intuit where I worked on a Blockchain API. My tasks were focused on back-end and testing. Overall, it was a valuable learning experience, where I completed deliverables.
 
-You can reach me through my [LinkedIn Profile](https://www.linkedin.com/in/alfonso-delarosa/)
+You can reach me on [LinkedIn](https://www.linkedin.com/in/alfonso-delarosa/)
 
 Here you will find several projects that I have worked on.
 
@@ -16,9 +16,9 @@ Here you will find several projects that I have worked on.
 - [**To-Do List Application**](https://github.com/alfonsodelarosa4/To-List-Application) (Java/SQLite) (Spring 2020) 📋
 
 ## Technical Skills
-- **Proficient**: Git, GitHub, Python, Golang, Visual Studio, Jupyter Notebooks
-- **Experienced**: C, C++, C#, Java, Unix, DynamoDB
-- **Familiar**: Django, Node.js, Express.js, React.js, Redux.js, Javascript, SQL, MongoDB, Firebase DB
+- **Proficient**: Git, GitHub, Python, Go, JIRA, AWS (EC2, ECS), Docker, Jupyter Notebooks, Postman
+- **Experienced**: Java, Unix, Kubernetes, React.js, MongoDB, Google EKS, TensorFlow, Keras, Numpy
+- **Familiar**: Django, Node.js, Express.js, JavaScript, SQL, Flask, sci-kit learn, C++, C#, DynamoDB
 
 <div>
 <img src="https://github.com/alfonsodelarosa4/alfonsodelarosa4/blob/main/technologies/git-logo.png" height="38">
