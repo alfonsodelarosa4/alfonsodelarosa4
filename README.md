@@ -9,7 +9,8 @@ You can reach me through my [LinkedIn Profile](https://www.linkedin.com/in/alfon
 Here you will find several projects that I have worked on.
 
 ## Projects
-- [**Backend of Diet Meal Plan Application**](https://github.com/husainunwalla/python-api-docker) (Flask/MongoDB) (Winter 2023) 🥗 
+- [**Decentralized Pub/Sub Social Network**](https://github.com/alfonsodelarosa4/SCU-COEN317-Project) (Flask/MongoDB/Google EKS) (Spring 2023) 💻
+- [**Backend of Diet Meal Plan Application**](https://github.com/husainunwalla/python-api-docker) (Flask/MongoDB/AWS ECS) (Winter 2023) 🥗 
 - [**Professional Social Media Web Application**](https://github.com/alfonsodelarosa4/Professional-Social-Network) (React/Node.js) (Summer 2021) 👨‍💼👩‍💼
 - [**E-Commerce Clothing Application**](https://github.com/alfonsodelarosa4/E-Commerce-Clothing-Store) (Django) (Summer 2021) 👕👖👞
 - [**To-Do List Application**](https://github.com/alfonsodelarosa4/To-List-Application) (Java/SQLite) (Spring 2020) 📋
